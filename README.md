@@ -19,3 +19,4 @@ This repository analyzes the Adult Census Income dataset, comparing demographic 
 
 ## Visualizing this Data
 - Being able to picture and analyze this data set is highly important for observing trends between education and income
+![High School Graduates](https://github.com/caitdwyer27/Income-Differences-by-Education/assets/167785344/123c769e-a9e7-4cfe-a9dc-01f66d50ae89)
