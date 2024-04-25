@@ -26,5 +26,7 @@ This repository analyzes the Adult Census Income dataset, comparing demographic 
 
 - Next we can use the same visualization for those with a Bachelors degree
 ![Bachelors Degree](https://github.com/caitdwyer27/Income-Differences-by-Education/assets/167785344/2459ec00-6b21-4a97-bb24-b2f2d8a8d549)
-*data visualizations were created using [datawisp
+*Data visualizations were created using [datawisp
 ](https://www.datawisp.io/datavisualization?utm_source=google&utm_medium=cpc&utm_campaign=21168774683&utm_term=&utm_content=&gad_source=1&gclid=Cj0KCQjw_qexBhCoARIsAFgBleuw-DoHuFZMCyfd8ymB_qtktHqNOeJ5TZzAVQVLKgFHRV-HHZDjm3YaAmrkEALw_wcB)*
+
+- With this illustration of our data, we can see a clear trends between having a High School degree as opposed to having a Bachelors degree when it comes to the amount of income made.
