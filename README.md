@@ -3,7 +3,7 @@ This repository analyzes the Adult Census Income dataset, comparing demographic 
 
 ## Purpose of this Repository 
 - The purpose of this repository is to create a computational analysis of U.S. income data as it correlates with education levels: High School Graduates compared to those with a Bachelors degree
-- By following the instructional Python notebook, users can produce a meerged data set comparing the education levels.
+- By following the instructional [Python notebook](https://colab.research.google.com/drive/1ijqMaCN3vD8LG7tAL70kCxhx1_lxo61t#scrollTo=L135jtjuyg3q), users can produce a meerged data set comparing the education levels.
 - This information can be used to create models and predictions for income, along with other interesting characteristics, such as marital status or gender.
 
 ## Contents 
