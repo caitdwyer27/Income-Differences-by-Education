@@ -3,12 +3,14 @@ This repository analyzes the Adult Census Income dataset, comparing demographic 
 
 ## Purpose of this Repository 
 - The purpose of this repository is to create a computational analysis of U.S. income data as it correlates with education levels: High School Graduates compared to those with a Bachelors degree
-- By following the instructional [Python notebook](https://colab.research.google.com/drive/1ijqMaCN3vD8LG7tAL70kCxhx1_lxo61t#scrollTo=L135jtjuyg3q), users can produce a merged data set comparing the education levels.
+- By following the instructional [ Python notebook ](https://github.com/caitdwyer27/Income-Differences-by-Education/blob/main/AdultCensusIncome%20(1).ipynb),users can produce a merged data set comparing the education levels.
 - This information can be used to create models and predictions for income, along with other interesting characteristics, such as marital status or gender.
 
 ## Contents 
-- contains the raw data set, [adult.csv] as well as the newly created subset, [EducationLevelDifferences.csv] which are both located within the files at the top of the repository 
-
+- A README.md file, explaining the purpose and analysis of the datset
+- Contains the raw data set,[adult.csv ](https://github.com/caitdwyer27/Income-Differences-by-Education/blob/main/AdultCensusIncome%20(1).ipynb)as well as the newly created subset, [EducationLevelDifferences.csv](https://github.com/caitdwyer27/Income-Differences-by-Education/blob/main/EducationLevelDifferences.csv), which are both located within the files at the top of the repository
+- Also contains the code to create the subset, written with instructions in the [Python notebook
+](https://github.com/caitdwyer27/Income-Differences-by-Education/blob/main/AdultCensusIncome%20(1).ipynb)
 
 
 ## Where the Data is From
