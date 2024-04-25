@@ -8,7 +8,7 @@ This repository analyzes the Adult Census Income dataset, comparing demographic 
 
 ## Contents 
 - A README.md file, explaining the purpose and analysis of the datset
-- Contains the raw data set [[adult.csv] ], (https://github.com/caitdwyer27/Income-Differences-by-Education/blob/main/AdultCensusIncome%20(1).ipynb)as well as the newly created subset [[EducationLevelDifferences.csv]](https://github.com/caitdwyer27/Income-Differences-by-Education/blob/main/EducationLevelDifferences.csv), which are both located within the files at the top of the repository
+- Contains the raw data set [[adult.csv]] (https://github.com/caitdwyer27/Income-Differences-by-Education/blob/main/AdultCensusIncome%20(1).ipynb), as well as the newly created subset [[EducationLevelDifferences.csv]](https://github.com/caitdwyer27/Income-Differences-by-Education/blob/main/EducationLevelDifferences.csv), which are both located within the files at the top of the repository
 - Also contains the code to create the subset, written with instructions in the [Python notebook
 ](https://github.com/caitdwyer27/Income-Differences-by-Education/blob/main/AdultCensusIncome%20(1).ipynb)
 
